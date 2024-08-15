@@ -1,0 +1,18 @@
+.plates {
+  max-width: 300px;
+  background-color: #4530b2;
+  padding: 15px;
+}
+
+.plates__counter {
+  display: inline-block;
+  color: white;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.plates__items {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
